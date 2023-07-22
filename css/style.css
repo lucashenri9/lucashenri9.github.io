@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    position: absolute;
+}
+
+.caveira {
+    height: 937px;
+    width: 1920px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
+    color: red;
+}
+
+.about {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    top: 50px;
+    left: 800px;
+}
+
+.projects {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    top: 50px;
+    left: 1000px;
+}
+
+.contact {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    top: 50px;
+    left: 1200px;
+}
+
+.lobo {
+    height: 937px;
+    width: 1920px;
+}
+
+.yang {
+    height: 937px;
+    width: 1920px;
+}
+
+.planetas {
+    height: 937px;
+    width: 1920px;
+}
+
+.home {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    top: 50px;
+    left: 500px;
+}
+
+.aboutt {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    top: 50px;
+    left: 600px;
+}
+
+.projectss {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    top: 50px;
+    left: 700px;
+}
+
+.titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    top: 170px;
+    left: 800px;
+}
+
+.fogo {
+    height: 300px;
+    width: 300px;
+    top: 630px;
+    left:  ;
+}
+
+.avatar {
+    height: 300px;
+    width: 300px;
+    top: 630px;
+    left: 300px ;
+}
+
+.jurassic {
+    height: 300px;
+    width: 300px;
+    top: 630px;
+    left: 600px;
+}
+
+.tenis {
+    height: 300px;
+    width: 300px;
+    top: 30px;
+    left:  ;
+}
+
+.guitarra {
+    height: 300px;
+    width: 300px;
+    top: 330px;
+    left:  ;
+}
+
+.batera {
+    height: 300px;
+    width: 300px;
+    top: 330px;
+    left: 300px ;
+}
+
+.titulo1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150px;
+    top: 170px;
+    left: 800px;
+    color: #ffffff;
+}
+
+.panda {
+    height:300px ;
+    width: 300px;
+    top: 330px;
+    left: 220px ;
+}
+
+.logo {
+    height: 300px;
+    width: 300px;
+    top: 330px;
+    left: 800px ;
+}
+
+.jornal {
+    height: 300px;
+    width: 300px;
+    top: 330px;
+    left: 1400px ;
+}
+
+.titulo3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150px;
+    top: 160px;
+    left: 600px;
+    color: #ffffff;
+}
+
+.github {
+    background:#ffffff;
+    border-radius: 86px;
+    top: 150px;
+    left: 480px;
+} 
